@@ -46,6 +46,7 @@ public class AI {
 							: Math.abs(i - U + 1) % p.length];
 			q[i] += s;
 		}
+		String s = "nitikesh";
 		return q;
 	}
 
@@ -64,3 +65,5 @@ public class AI {
 
 	}
 }
+
+
